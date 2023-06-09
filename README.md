@@ -1,7 +1,7 @@
 # SQL-Practice
 
 
-- This Repository contains the SQL practice questions on various topics
+## This Repository contains the SQL practice questions on various topics
 
 - Creating Databases using DDL and DML commands.
 - Data Manipulation in SQL.
